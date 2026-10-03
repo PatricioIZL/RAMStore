@@ -1,4 +1,4 @@
-# RAMCompatibiblityServer
+# RAMStore
 # <ProjectName>
 
 A Redis-compatible in-memory data store written from scratch in C#.
