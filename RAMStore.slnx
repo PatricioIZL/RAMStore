@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RAMStore.Core/RAMStore.Core.csproj" />
+    <Project Path="src/RAMStore.Server/RAMStore.Server.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RAMStore.Tests/RAMStore.Tests.csproj" />
+  </Folder>
+</Solution>

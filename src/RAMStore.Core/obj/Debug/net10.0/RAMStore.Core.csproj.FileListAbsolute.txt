@@ -1,0 +1,12 @@
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/bin/Debug/net10.0/RAMStore.Core.deps.json
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/bin/Debug/net10.0/RAMStore.Core.dll
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/bin/Debug/net10.0/RAMStore.Core.pdb
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.AssemblyInfoInputs.cache
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.AssemblyInfo.cs
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.csproj.CoreCompileInputs.cache
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.sourcelink.json
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.dll
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/refint/RAMStore.Core.dll
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/RAMStore.Core.pdb
+/Users/patriciozapata/RAMStore/src/RAMStore.Core/obj/Debug/net10.0/ref/RAMStore.Core.dll
